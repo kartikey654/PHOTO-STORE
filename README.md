@@ -20,4 +20,4 @@ https://fonts.google.com/specimen/Playwrite+US+Modern
 
 ## hosting
 
-photo-store-app.netlify.app
+https://photo-store-app.netlify.app
